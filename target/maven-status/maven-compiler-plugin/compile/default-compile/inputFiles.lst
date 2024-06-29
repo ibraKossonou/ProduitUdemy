@@ -1,0 +1,12 @@
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/repos/CategorieRepository.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/entities/Categorie.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/service/ProduitServiceImpl.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/repos/ProduitRepository.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/service/ProduitService.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/ProduitsApplication.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/entities/Produit.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/restcontrollers/ProduitRESTController.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/security/SecurityConfig.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/entities/ProduitProjection.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/security/JWTAuthorizationFilter.java
+/Users/kossonouibrahim/Documents/FS_SB3.2.1_atelier_15_SECURISER_API-main/src/main/java/com/nadhem/produits/security/SecParams.java

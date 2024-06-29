@@ -1,0 +1,13 @@
+com/nadhem/produits/restcontrollers/ProduitRESTController.class
+com/nadhem/produits/security/SecParams.class
+com/nadhem/produits/security/SecurityConfig.class
+com/nadhem/produits/repos/CategorieRepository.class
+com/nadhem/produits/service/ProduitService.class
+com/nadhem/produits/ProduitsApplication.class
+com/nadhem/produits/entities/Categorie.class
+com/nadhem/produits/repos/ProduitRepository.class
+com/nadhem/produits/security/JWTAuthorizationFilter.class
+com/nadhem/produits/service/ProduitServiceImpl.class
+com/nadhem/produits/entities/Produit.class
+com/nadhem/produits/entities/ProduitProjection.class
+com/nadhem/produits/security/SecurityConfig$1.class
