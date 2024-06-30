@@ -1,0 +1,18 @@
+# Ignorer les fichiers de compilation Java
+*.class
+
+# Ignorer les fichiers et répertoires spécifiques à l'IDE
+.idea/
+*.iml
+*.log
+
+# Ignorer les fichiers générés par le système
+.DS_Store
+
+# Ignorer les fichiers de build
+/build/
+/target/
+
+# Ignorer les fichiers de configuration de l'environnement
+.env
+
